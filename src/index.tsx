@@ -5,4 +5,4 @@ import "./index.css";
 
 const container = document.getElementById("app-root")!;
 const root = createRoot(container);
-root.render(<App prop="aaa" />);
+root.render(<App />);
